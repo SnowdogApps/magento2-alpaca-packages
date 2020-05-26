@@ -1,0 +1,20 @@
+{
+  "name": "snowdog/module-alpaca-packages",
+  "description": "Bunch of modules for Alpaca",
+  "require": {
+    "elgentos/module-lightspeed": "~1.0.2",
+    "magepal/magento2-gmailsmtpapp": "~2.6.4|~2.7.0",
+    "magepal/magento2-googletagmanager": "~2.3.0|~2.4.0",
+    "mailchimp/mc-magento2": "^102.3.36",
+    "smile/elasticsuite": "~2.8.2|~2.9.0",
+    "snowdog/module-bullet-points": "1.1.0",
+    "snowdog/module-category-attributes": "1.0.0",
+    "snowdog/module-menu": "^2.10.0",
+    "snowdog/module-product-attribute-description": "1.1.0",
+    "snowdog/module-shipping-latency": "1.1.0",
+    "snowdog/module-wishlist-unlocker": "1.0.0",
+    "snowdog/theme-frontend-alpaca": "2.0.0",
+    "webshopapps/module-matrixrate": "^20.1.5"
+  },
+  "license": "MIT"
+}
