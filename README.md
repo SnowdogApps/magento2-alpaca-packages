@@ -24,3 +24,7 @@ A set of open source modules will be installed in your Magento 2 store, these mo
 - "snowdog/module-wishlist-unlocker": https://github.com/SnowdogApps/magento2-wishlist-unlocker
 - "snowdog/theme-frontend-alpaca": https://github.com/SnowdogApps/magento2-alpaca-theme
 - "webshopapps/module-matrixrate": https://github.com/webshopapps/module-matrixrate
+
+### 3. Demo:
+
+We have a repository for a demo store available here: https://github.com/SnowdogApps/magento2-alpaca-store-demo, which installs Magento 2 and Alpaca components through `composer`. You can download it and check it by yourself.
