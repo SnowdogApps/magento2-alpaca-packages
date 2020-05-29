@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.0.2] 2020-05-29
+* Updated composer reference for snowdog product attribute description extension
+
 ## [1.0.1] 2020-05-29
 * Updated composer references for snowdog modules
 
