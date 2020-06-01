@@ -11,7 +11,6 @@ A set of open source tools for Magento 2 Open Source
 
 A set of open source modules will be installed in your Magento 2 store, these modules are:
 
-- "elgentos/module-lightspeed": https://github.com/elgentos/magento2-lightspeed
 - "magepal/magento2-gmailsmtpapp": https://github.com/magepal/magento2-gmail-smtp-app
 - "magepal/magento2-googletagmanager": https://github.com/magepal/magento2-google-tag-manager
 - "mailchimp/mc-magento2": https://github.com/mailchimp/mc-magento2
