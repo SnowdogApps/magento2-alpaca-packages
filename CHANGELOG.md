@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.1.0] 2020-06-01
+* Removed elgentos/module-lightspeed extension
+
 ## [1.0.2] 2020-05-29
 * Updated composer reference for snowdog product attribute description extension
 
