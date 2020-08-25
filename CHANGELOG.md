@@ -1,4 +1,5 @@
 ## [Unreleased]
+* Added version `2.10.0` to module `smile/elasticsuite`
 
 ## [1.1.0] 2020-06-01
 * Removed elgentos/module-lightspeed extension
