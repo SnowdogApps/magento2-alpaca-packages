@@ -1,6 +1,7 @@
 ## [Unreleased]
 * Added version `2.10.0` to module `smile/elasticsuite`
 * Added versions `2.8.x` to module `magepal/magento2-gmailsmtpapp`
+* Added versions `2.5.x` to module `magepal/magento2-googletagmanager`
 
 ## [1.1.0] 2020-06-01
 * Removed elgentos/module-lightspeed extension
