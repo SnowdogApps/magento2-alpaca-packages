@@ -6,7 +6,7 @@
     "magepal/magento2-googletagmanager": "~2.3.0|~2.4.0",
     "mailchimp/mc-magento2": "^102.3.36",
     "smile/elasticsuite": "~2.8.2|~2.9.0|~2.10.0",
-    "snowdog/module-bullet-points": "^1.1.1",
+    "snowdog/module-bullet-points": "^1.1.2",
     "snowdog/module-category-attributes": "^1.0.1",
     "snowdog/module-menu": "^2.10.0",
     "snowdog/module-product-attribute-description": "~1.1.1",
