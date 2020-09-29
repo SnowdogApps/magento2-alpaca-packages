@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.3.0] 2020-09-29
+* Bumped `snowdog/module-category-attributes` version number to `1.1.0`
+
 ## [1.2.0] 2020-09-17
 * Added version `2.10.0` to module `smile/elasticsuite`
 * Bumped `snowdog/module-bullet-points` version number to `1.1.2`
