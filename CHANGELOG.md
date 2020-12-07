@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.5.0] 2020-12-07
+* Bumped `snowdog/module-menu` version number to `2.13.0`
+
 ## [1.4.0] 2020-11-12
 * Added versions `2.8.x` to module `magepal/magento2-gmailsmtpapp`
 * Added versions `2.5.x` to module `magepal/magento2-googletagmanager`
