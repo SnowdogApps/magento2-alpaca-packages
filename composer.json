@@ -12,7 +12,7 @@
     "snowdog/module-product-attribute-description": "^1.1.1|dev-test",
     "snowdog/module-shipping-latency": "^1.1.1|dev-test",
     "snowdog/module-wishlist-unlocker": "^1.0.1|dev-test",
-    "snowdog/theme-frontend-alpaca": "dev-test",
+    "snowdog/theme-frontend-alpaca": "*",
     "webshopapps/module-matrixrate": "^20.1.5"
   },
   "license": "MIT"
