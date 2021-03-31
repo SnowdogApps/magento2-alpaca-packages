@@ -9,7 +9,7 @@
     "snowdog/module-bullet-points": "^1.1.2|dev-test",
     "snowdog/module-csp": "^1.0.0|dev-test",
     "snowdog/module-category-attributes": "^1.1.0|dev-test",
-    "snowdog/module-menu": "^2.13.0|dev-test|dev-test/stage",
+    "snowdog/module-menu": "^2.14.0|dev-test|dev-test/stage",
     "snowdog/module-product-attribute-description": "~1.1.1|dev-test",
     "snowdog/module-shipping-latency": "^1.1.1|dev-test",
     "snowdog/module-wishlist-unlocker": "^1.0.1|dev-test",
