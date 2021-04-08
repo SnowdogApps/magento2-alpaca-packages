@@ -1,4 +1,5 @@
 ## [Unreleased]
+* Bumped `snowdog/module-csp` version number to `^1.1.0`
 
 ## [1.7.0] 2021-03-31
 * Bumped `snowdog/module-menu` version number to `2.14.0`
