@@ -1,5 +1,10 @@
 ## [Unreleased]
-* Bumped `snowdog/module-csp` version number to `^1.1.0`
+
+## [1.8.0] 2021-04-21
+* Bumped `snowdog/module-csp` version number to `1.2.0`
+* Added `snowdog/module-alpaca-general` in version `1.0.0`
+* Bumped `snowdog/theme-frontend-alpaca` version number to `2.18.0`
+* Added versions `2.6.x` to module `magepal/magento2-googletagmanager`
 
 ## [1.7.0] 2021-03-31
 * Bumped `snowdog/module-menu` version number to `2.14.0`
