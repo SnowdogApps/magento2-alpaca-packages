@@ -15,7 +15,8 @@
     "snowdog/module-shipping-latency": "^1.1.1",
     "snowdog/module-wishlist-unlocker": "^1.0.1",
     "snowdog/theme-frontend-alpaca": "^2.0.0",
-    "webshopapps/module-matrixrate": "^20.1.5"
+    "webshopapps/module-matrixrate": "^20.1.5",
+    "yireo/magento2-webp2": "^0.10.7"
   },
   "license": "MIT"
 }
