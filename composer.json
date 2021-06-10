@@ -8,7 +8,7 @@
     "smile/elasticsuite": "~2.8.2|~2.9.0|~2.10.0",
     "snowdog/module-alpaca-general": "^1.0.0",
     "snowdog/module-bullet-points": "^1.1.2",
-    "snowdog/module-csp": "^1.1.0",
+    "snowdog/module-csp": "^1.3.0",
     "snowdog/module-category-attributes": "^1.1.0",
     "snowdog/module-menu": "^2.14.0",
     "snowdog/module-product-attribute-description": "~1.1.1",
