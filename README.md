@@ -15,6 +15,7 @@ A set of open source modules will be installed in your Magento 2 store, these mo
 - "magepal/magento2-googletagmanager": https://github.com/magepal/magento2-google-tag-manager
 - "mailchimp/mc-magento2": https://github.com/mailchimp/mc-magento2
 - "smile/elasticsuite": https://github.com/Smile-SA/elasticsuite
+- "snowdog/module-alpaca-general": https://github.com/SnowdogApps/magento2-alpaca-general
 - "snowdog/module-bullet-points": https://github.com/SnowdogApps/magento2-bullet-points
 - "snowdog/module-category-attributes": https://github.com/SnowdogApps/magento2-category-attributes
 - "snowdog/module-menu": https://github.com/SnowdogApps/magento2-menu
