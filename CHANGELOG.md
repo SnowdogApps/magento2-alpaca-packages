@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+## [1.9.0] 2021-10-19
+* Bumped `snowdog/module-csp` vesrion to `1.3.2`
+
 ## [1.8.0] 2021-04-21
 * Bumped `snowdog/module-csp` version number to `1.2.0`
 * Added `snowdog/module-alpaca-general` in version `1.0.0`
