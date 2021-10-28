@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [1.10.0] 2021-10-28
 * Added versions `2.7.x` to module `magepal/magento2-googletagmanager`
 
 ## [1.9.0] 2021-10-19
