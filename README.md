@@ -18,6 +18,7 @@ A set of open source modules will be installed in your Magento 2 store, these mo
 - "snowdog/module-alpaca-general": https://github.com/SnowdogApps/magento2-alpaca-general
 - "snowdog/module-bullet-points": https://github.com/SnowdogApps/magento2-bullet-points
 - "snowdog/module-category-attributes": https://github.com/SnowdogApps/magento2-category-attributes
+- "snowdog/module-csp": https://github.com/SnowdogApps/magento2-module-csp
 - "snowdog/module-menu": https://github.com/SnowdogApps/magento2-menu
 - "snowdog/module-product-attribute-description": https://github.com/SnowdogApps/magento2-product-attribute-description
 - "snowdog/module-shipping-latency": https://github.com/SnowdogApps/magento2-shipping-latency
