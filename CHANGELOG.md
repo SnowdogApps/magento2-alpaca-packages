@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [1.12.0] 2022-06-14
 - Moved json files to import from `snowdog/module-alpaca-acm` (#7)
 
 ## [1.11.0] 2022-04-19
