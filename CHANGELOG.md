@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Bumped `snowdog/module-product-attribute-description` version to `1.2.0`
 
 ## [1.12.0] 2022-06-14
 - Moved json files to import from `snowdog/module-alpaca-acm` (#7)
