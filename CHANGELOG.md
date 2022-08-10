@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [1.13.0] 2022-08-10
 - Bumped `snowdog/module-product-attribute-description` version to `1.2.0`
 
 ## [1.12.0] 2022-06-14
