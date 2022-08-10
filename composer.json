@@ -11,7 +11,7 @@
     "snowdog/module-csp": "^1.3.2",
     "snowdog/module-category-attributes": "^1.1.0",
     "snowdog/module-menu": "^2.14.0",
-    "snowdog/module-product-attribute-description": "~1.1.1",
+    "snowdog/module-product-attribute-description": "^1.2.0",
     "snowdog/module-shipping-latency": "^1.1.1",
     "snowdog/module-wishlist-unlocker": "^1.0.1",
     "snowdog/theme-frontend-alpaca": "^2.27.0",
