@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Added version '103.4.45' to module mailchimp/mc-magento2
 
 ## [1.12.0] 2022-06-14
 - Moved json files to import from `snowdog/module-alpaca-acm` (#7)
