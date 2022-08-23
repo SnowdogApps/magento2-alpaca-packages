@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Added version '103.4.45' to module mailchimp/mc-magento2
 
 ## [1.13.0] 2022-08-10
 - Bumped `snowdog/module-product-attribute-description` version to `1.2.0`
