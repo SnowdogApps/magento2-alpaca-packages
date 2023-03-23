@@ -1,4 +1,5 @@
 ## [Unreleased]
+- Added version `2.11.0` to module `smile/elasticsuite`
 
 ## [1.14.0] 2022-08-23
 - Added version '103.4.45' to module mailchimp/mc-magento2
